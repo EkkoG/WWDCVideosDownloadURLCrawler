@@ -4,7 +4,10 @@ This script will crawl the sessions download URL,save as two txt file under the 
 
 #usage
 
-    pip install virtualenv
+    git clone https://github.com/cielpy/WWDCVideosDownloadURLCrawler.git
+    cd WWDCVideosDownloadURLCrawler
+    pip install virtualenv #if need
+    virtualenv venv
     source venv/bin/activate
     pip install request BeautifulSoup4
     python wwdc_videos_crawler.py
