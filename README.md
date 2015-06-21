@@ -9,7 +9,7 @@ This script will crawl the sessions download URL,save as two txt file under the 
     pip install virtualenv #if need
     virtualenv venv
     source venv/bin/activate
-    pip install request BeautifulSoup4
+    pip install requests BeautifulSoup4
     python wwdc_videos_crawler.py
 
 when you see "done!", the work had be done.
