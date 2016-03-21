@@ -12,7 +12,7 @@ This script will crawl the sessions download URL,save as two txt file under the 
     pip install requests BeautifulSoup4
     python wwdc_videos_crawler.py
 
-when you see "done!", the work had be done.
+when you see `done!`, the work has been done.
 
 #URL of videos
 https://gist.github.com/cielpy/b64767f66fdb914a08e9
